@@ -1,8 +1,9 @@
+list
 todo Say good morning Duke!
 list
-deadline Say Good morning /by 1159am today
+deadline Say Good morning /by 12/12/2021
 list
-event Good Afternoon Duke /at 12pm tomorrow
+event Good Afternoon Duke /at 12/12/2021
 list
 done 2
 list

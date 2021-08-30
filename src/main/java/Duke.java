@@ -32,7 +32,6 @@ public class Duke {
         new Duke("../../../../../data/duke.txt").run();
     }
 
-
     /**
      * Runs the program
      */
